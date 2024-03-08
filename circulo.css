@@ -1,0 +1,18 @@
+body{
+
+    background-color: #fb9ae6;
+    
+    }
+    
+    p{
+    
+        color: rgb(117, 14, 78);
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 25px;
+    }
+    .input-group{
+        margin-bottom: 10px;
+    }
+    #Areadeltriangulo{
+        color: rgb(43, 226, 202);
+    }
